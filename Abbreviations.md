@@ -1,13 +1,14 @@
 ---
 title: Abbreviations
 created: '2020-09-26T08:29:19.027Z'
-modified: '2020-11-13T20:32:23.898Z'
+modified: '2020-11-29T12:51:54.815Z'
 ---
 
 # Abbreviations
 | Abbr. | Abbreviation | Week |
 | --- | --- | --- |
 | DAG | Directed Acyclic Structure | 7 |
+| DStreams | Discretised Streams | 9 | 
 | ELT | Extract, Load, Transform | 1 |
 | ETL | Extract, Transform, Load | 1 |
 | HDFS | Hadoop Distributed File System | 2 |
